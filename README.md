@@ -1,6 +1,6 @@
 # Thirsty-Desert
 The game is basically survival hyper casual. The purpose of the game collect water and survive the desert.
-![imagine entrance](https://github.com/bahriztr/Thirsty-Desert/blob/main/imagine/1.enterance.png)
+![imagine entrance](https://github.com/bahriztr/Thirsty-Desert/blob/main/imagine/1.entrance.png)
 
 
 This screen is enterance. You need to click on screen for start the game and you constantly lose your stamina throughout the game.
