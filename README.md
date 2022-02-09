@@ -1,5 +1,7 @@
 # Thirsty-Desert
 The game is basically survival hyper casual. The purpose of the game collect water and survive the desert.
+
+
 ![imagine entrance](https://github.com/bahriztr/Thirsty-Desert/blob/main/imagine/1.entrance.png)
 
 
